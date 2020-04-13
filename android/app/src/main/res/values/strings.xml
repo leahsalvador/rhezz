@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Rhezz</string>
+    <string name="title_activity_main">Rhezz</string>
+    <string name="package_name">com.rhezz.app</string>
+    <string name="custom_url_scheme">com.rhezz.app</string>
+</resources>

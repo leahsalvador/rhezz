@@ -1,0 +1,7 @@
+{
+  "name": "rhezz",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

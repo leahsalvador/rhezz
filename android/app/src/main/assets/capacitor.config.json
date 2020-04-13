@@ -1,0 +1,8 @@
+{
+  "appId": "com.rhezz.app",
+  "appName": "Rhezz",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "cordova": {}
+}
